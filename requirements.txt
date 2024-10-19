@@ -1,0 +1,9 @@
+aiogram==2.25.1
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+oauth2client
+gspread
+Flask==2.2.2
+Flask-CORS==3.0.10
+gunicorn==20.1.0
